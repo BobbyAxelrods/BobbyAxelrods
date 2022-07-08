@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Pat
-- 👀 I’m interested in Data Field be it Engineering or Science 
 - 🌱 I’m currently experimenting with data engineering tools ( Data Lake, Airflows, Pipelines Automation) 
 - 📫 Reach me 
 -   twitter : @patpadom
