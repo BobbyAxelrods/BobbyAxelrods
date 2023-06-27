@@ -12,8 +12,8 @@ I'm [Shafiq], a passionate engineer based in [Malaysia]. Welcome to my GitHub pr
 ## Skills
 
 - Programming Languages: [python,sql,spark,shell,docker]
-- Technologies/Frameworks: [Technologies/Frameworks]
-- Databases: [HDFS, Postgres, MongoDb, ]
+- Technologies/Frameworks: [Distributed Computing & Storage]
+- Databases: [HDFS, Postgres, MongoDb]
 - Other Tools: [airflow, nifi, postgres, hadoop, stormcrawler, streamlit, hue ,dbt, openmetadata, spark]
 
 Feel free to explore my repositories and get in touch with me. I'm always excited to collaborate on interesting projects!
