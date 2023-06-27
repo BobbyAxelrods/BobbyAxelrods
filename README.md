@@ -44,11 +44,17 @@ I am committed to continuous learning and growth, and I am open to collaborating
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 </br>
 </br>
+
+## Tools Coverages
+
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&color=003B57)
 ![](https://img.shields.io/badge/Code-Spark-informational?style=flat&logo=Spark&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Kafka-informational?style=flat&logo=Kafka&color=336791)
+![](https://img.shields.io/badge/Code-Nifi-informational?style=flat&logo=Nifi&color=003B57)
+![](https://img.shields.io/badge/Code-Airflow-informational?style=flat&logo=Nifi&color=003B57)
+![](https://img.shields.io/badge/Tools-Aws-Ec2-informational?style=flat&logo=AWS&color=181717)
 
 
