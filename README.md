@@ -43,6 +43,8 @@ Let's connect and make meaningful contributions together!
 ![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=Python&color=61DAFB)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-Shell-Bash-informational?style=flat&logo=SQLite&color=336791)
+
 </br>
 </br>
 
@@ -57,5 +59,9 @@ Let's connect and make meaningful contributions together!
 ![](https://img.shields.io/badge/Code-Nifi-informational?style=flat&logo=Nifi&color=003B57)
 ![](https://img.shields.io/badge/Code-Airflow-informational?style=flat&logo=Nifi&color=003B57)
 ![](https://img.shields.io/badge/Tools-Aws-Ec2-informational?style=flat&logo=AWS&color=181717)
+![](https://img.shields.io/badge/Tools-Minio-informational?style=flat&logo=Minio&color=F24E1E)
+![](https://img.shields.io/badge/Tools-ElasticSearch-informational?style=flat&logo=ElasticSearch&color=003B57)
+![](https://img.shields.io/badge/Tools-MongoDb-informational?style=flat&logo=MongoDb&color=61DAFB)
+![](https://img.shields.io/badge/Code-DeltaLake-informational?style=flat&logo=DeltaLake&color=336791)
 
 
