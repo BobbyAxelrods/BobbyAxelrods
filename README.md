@@ -6,9 +6,14 @@
 Hi there, I'm <a href="" target="_blank" rel="noreferrer">Shafiq</a> 👋
 </h3>
 
+<h3 align="center">
+I'm a Data engineer | Builder & Designer at core💻
+
 <h2 align="center">
-I'm a Data engineer and Analyst💻
+Connect with me on linkedin : <a href="https://www.linkedin.com/in/mshafiqsafian/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="30px"/></a>
+ 
 </h2> 
+
 With over 4 years of experience as a data engineer, I have honed my skills in designing, constructing, and managing robust data pipelines and infrastructure. My expertise caters to a wide range of analytical and business intelligence requirements. Proficient in various technologies and tools, including SQL, Python, ETL frameworks, and big data technologies like Hadoop and Spark, I ensure efficient and effective data processing.
 
 To showcase my proficiency in data engineering, my GitHub account houses a diverse collection of projects and code samples. These projects not only highlight my ability to extract, transform, and load data from multiple sources but also exemplify my expertise in data modeling, visualization, and reporting.
@@ -17,25 +22,16 @@ Committed to continuous learning and personal growth, I am eager to collaborate 
 
 Let's connect and make meaningful contributions together!
 
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/mshafiqsafian/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
 - My old projects
-- Data engineer
-- Data analyst
-
 
 ## 🌱 I'm currently learning
 
-- 📱 Machine Learning
+- Machine Learning
 - Data Engineering
-- Devops
 - Kubernetes
 
 ## 💼 Technical Skills
