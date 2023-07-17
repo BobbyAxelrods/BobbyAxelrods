@@ -14,7 +14,7 @@ Connect with me on linkedin : <a href="https://www.linkedin.com/in/mshafiqsafian
  
 </h2> 
 
-With over 3 years of experience as a data engineer, I have honed my skills in designing, constructing, and managing robust data pipelines and infrastructure. My expertise caters to a wide range of analytical and business intelligence requirements. Proficient in various technologies and tools, including SQL, Python, ETL frameworks, and big data technologies like Hadoop and Spark, I ensure efficient and effective data processing.
+With over 2 years of experience as a data engineer, I have honed my skills in designing, constructing, and managing robust data pipelines and infrastructure. My expertise caters to a wide range of analytical and business intelligence requirements. Proficient in various technologies and tools, including SQL, Python, ETL frameworks, and big data technologies like Hadoop and Spark, I ensure efficient and effective data processing.
 
 To showcase my proficiency in data engineering, my GitHub account houses a diverse collection of projects and code samples. These projects not only highlight my ability to extract, transform, and load data from multiple sources but also exemplify my expertise in data modeling, visualization, and reporting.
 
