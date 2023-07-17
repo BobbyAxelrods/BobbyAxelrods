@@ -61,3 +61,5 @@ Let's connect and make meaningful contributions together!
 ![](https://img.shields.io/badge/Code-DeltaLake-informational?style=flat&logo=DeltaLake&color=336791)
 
 
+Nifi | Airflow | Postgres | SQL | Python | Google Cloud : Bigquery & Instances | AWS : S3, Redshift & EC2 | Hadoop | Streamlit | Pandas | Kafka | Spark | Shell | Terraform | Docker | Selenium Scrapper | dbt | | No SQL : Mongo Db | Data Modelling | Data Integration | Data Governance : Open MetaData | Zookeeper | API | Git source control | Data Warehouse | Data Lake
+
